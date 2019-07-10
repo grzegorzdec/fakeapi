@@ -1,4 +1,4 @@
- { "meals":
+{ "meals":
  [
     {
       "id": "1",
@@ -13,4 +13,24 @@
       "price": "16zł"
     }
   ]
- }
+"clients":
+[
+{
+"id": "1",
+"name": "Sofomo",
+"latitude": 51.1172374,
+"longitude": 17.0203502
+ },
+{
+"id": "2",
+"name": "Krasnal Życzliwek"
+"latitude": 51.1104431,
+"longitude": 17.0290294
+},
+{
+"id": "3",
+"name": "Kolejkowo",
+"latitude": 51.1118224,
+"longitude": 17.0228329
+}
+]
