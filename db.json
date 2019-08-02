@@ -60,11 +60,11 @@
   "users": [
     {
       "id": "088cb73d-af4b-4b99-97c2-87a150c6b5b4",
-      "cupons": 4
+      "coupons": 4
     },
     {
       "id": "017eca1f-9725-4d51-b78d-3ec0434204fc",
-      "cupons": 1
+      "coupons": 1
     }
   ]
 }
