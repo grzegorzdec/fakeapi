@@ -12,25 +12,25 @@
       "description": "Sałatka z oliwkami, suszonym pomidorem i serem solankowym: makaron farfalle, mix sałat, ser solankowy typu feta, oliwki, pomidor suszony, pomidor, ogórek zielony, rukola, słonecznik, jogurt naturalny, cheddar, majonez, musztarda, słonecznik, czosnek, olej roślinny",
       "price": "17zł"
     },
-       {
+    {
       "id": "3",
       "name": "Sałatka z kurczakiem w sosie cezar",
       "description": " kurczak, ser cheddar, pomidor, papryka, grzanki pszenne, sos cezar na bazie jogurtu i majonezu, mix sałat",
       "price": "15zł"
     },
-        {
+    {
       "id": "4",
       "name": "Sałatka z kurczakiem w sosie bazyliowo-cytrynowym",
       "description": "kurczak, pomidor, papryka, pestki dyni, sos bazyliowo-cytrynowy, mix sałat",
       "price": "14zł"
     },
-        {
+    {
       "id": "5",
       "name": "Placuszki louisiana",
       "description": "z szarpaną wieprzowiną, mixem kasz i colesławem",
       "price": "12zł"
     },
-        {
+    {
       "id": "6",
       "name": "Naleśniki",
       "description": "z kurczakiem i szpinakiem w sosie serowym",
@@ -55,6 +55,16 @@
       "name": "Kolejkowo",
       "latitude": 51.1118224,
       "longitude": 17.0228329
+    }
+  ],
+  "users": [
+    {
+      "id": "088cb73d-af4b-4b99-97c2-87a150c6b5b4",
+      "cupons": 4
+    },
+    {
+      "id": "017eca1f-9725-4d51-b78d-3ec0434204fc",
+      "cupons": 1
     }
   ]
 }
