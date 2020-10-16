@@ -86,5 +86,21 @@
         }
       ]
     }
+  ],
+    "mri_info": [
+    {
+      "name": "room1",
+      "status": "Flow rapidly Decreasing",
+      "gpm": "12",
+      "gpmhr": "0.5",
+      "location": "Wrocław"
+    },
+    {
+      "name": "room 2",
+      "status": "Water temp slowly rising",
+      "gpm": "10",
+      "gpmhr": "1.5",
+      "location": "San Antonio"
+    }
   ]
 }
